@@ -84,6 +84,6 @@ Open a Pull Request
 Distributed under the MIT License. See LICENSE for more information.
 
 ✉️ Contact
-Your Name - @yourtwitter - your.email@example.com
+Alugubelli Nivas - nivasalugubelli6@gmail.com
 
 Project Link: https://github.com/niavs798/PRODIGY_WD_03
